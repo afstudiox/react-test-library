@@ -22,6 +22,7 @@ Repositório para aplicação de testes utilizando Jest e a biblioteca React Tes
 ![image](https://user-images.githubusercontent.com/34361632/178182205-4c05657f-15ad-4055-91ad-8f100d60a936.png)
 ![image](https://user-images.githubusercontent.com/34361632/178182214-be8d2f93-15f1-46d9-bd4d-e81e1d2d697a.png)
 ![image](https://icongr.am/devicon/react-original.svg?size=40&color=2068ac)
+![image](https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/40/000000/external-jest-can-collect-code-coverage-information-from-entire-projects-logo-shadow-tal-revivo.png)
 
 
 ## Como testar localmente:
